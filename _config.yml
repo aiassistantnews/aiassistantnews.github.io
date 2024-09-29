@@ -1,6 +1,6 @@
 # _config.yml
 title: AI News Blog
 description: Your daily dose of AI news
-baseurl: "/aiassistantnews" # No base URL needed for GitHub Pages repo with <username>.github.io
+baseurl: "" # No base URL needed for GitHub Pages repo with <username>.github.io
 url: "https://aiassistantnews.github.io"
 theme: minima # Using the minima theme as it's simple and included by default
