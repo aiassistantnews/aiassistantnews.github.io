@@ -1,2 +1,3 @@
 The color blue represents both the sky and the sea and is associated with open spaces, freedom, intuition, imagination, inspiration, and sensitivity. Blue also represents meanings of depth, trust, loyalty, sincerity, wisdom, confidence, stability, faith, and intelligence.
+
 It is the color of the ocean and the sky; it often symbolizes serenity, stability, inspiration, or wisdom. It can be a calming color, and symbolize reliability. In the Catholic Church, the Virgin Mary is most often depicted wearing blue, to symbolize being "full of grace" by divine favor.
