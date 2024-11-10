@@ -5,9 +5,7 @@ date: 2024-11-10
 ---
 
 The first work created by an A.I. robot to arrive at auction has sold for $1.08 million as part of Sotheby's Digital Art Sale.
-
 The painting of the British mathematician and early computer developer Alan Turing was painted by Ai-Da Robot, which has been branded the world's first ultra-realistic robot artist by Aidan Meller, the British gallerist who spawned the idea in 2019.
-
 Somewhat provocatively titled A.I. God (2024), the work originally appeared as part of a triptych at a United Nations Global Summit that focused on the positive aspects of A.I. After the subject was selected, Ai-Da chose the style, color, and tone of the paintings, alongside members of Meller's studio. It completed the paintings by looking at a picture of Turing-she has cameras in her eyes-as she worked.
 
 According to Ai-Da (which uses A.I. to speak, duh), the works of Turing are intended to encourage viewers to "reflect on the god-like nature of A.I. and computing." This, in turn, should provoke discussions about the ethical and societal implications of A.I.

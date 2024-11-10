@@ -5,9 +5,7 @@ date: 2024-09-29
 ---
 
 A global study has unveiled a stark contrast in attitudes towards embracing in-vehicle AI between Eastern and Western markets, with European drivers particularly reluctant.
-
 The research, conducted by MHP, surveyed 4,700 car drivers across China, the US, Germany, the UK, Italy, Sweden, and Poland, revealing significant geographical disparities in AI acceptance and understanding.
-
 According to the study, while AI is becoming integral to modern vehicles, European consumers remain hesitant about its implementation and value proposition.
 
 Regional disparities
