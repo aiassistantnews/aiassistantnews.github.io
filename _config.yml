@@ -4,3 +4,8 @@ description: Your daily dose of AI news
 baseurl: "" # No base URL needed for GitHub Pages repo with <username>.github.io
 url: "https://aiassistantnews.github.io"
 theme: minima # Using the minima theme as it's simple and included by default
+# Link to the custom stylesheet
+sass:
+  load_paths:
+    - _sass
+    - assets/css
