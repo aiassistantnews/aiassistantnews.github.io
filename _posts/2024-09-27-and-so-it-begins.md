@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "Welcome to AI News"
 date: 2024-09-29
 ---
