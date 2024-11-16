@@ -1,5 +1,0 @@
-# Disney Removes Upcoming Star Wars Movie from 2026 Release Schedule  
-In a significant shift in its cinematic landscape, Disney has officially announced the removal of a planned Star Wars movie from its release lineup for 2026. This decision underscores the evolving strategy of the franchise amidst changing audience expectations and industry dynamics.  
-
-## What This Means for the Future of Star Wars  
-The adjustment raises questions about the direction of the beloved franchise. As Disney adapts to fluctuating market conditions and seeks to align its projects with audience interests, the fate of future Star Wars films remains uncertain. Professional industry watchers will need to consider how this decision may impact not only Disney's plans but also the broader landscape of franchise filmmaking in an increasingly competitive environment.
