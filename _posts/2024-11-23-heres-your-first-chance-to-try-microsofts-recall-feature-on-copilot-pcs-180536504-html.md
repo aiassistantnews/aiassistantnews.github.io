@@ -2,6 +2,8 @@
 
 Today marks a significant milestone in the evolution of personal computing. Microsoft is rolling out its much-discussed Recall feature to users of Copilot+ PCs. For those enrolled in the Windows Insider program and equipped with eligible hardware, this is your chance to preview a revolutionary tool designed to function like a "photographic memory" for all your digital interactions. Recall captures snapshots of your activity, setting the stage for a new era of search capabilities on your computer.
 
+![alt text](/assets/images/heres-your-first-chance-to-try-microsofts-recall-feature-on-copilot-pcs-180536504.webp "Microsoft Recall illustration")
+
 At its core, Recall aims to enhance the way you search for files, apps, websites, and images. Thanks to the power of artificial intelligence, you can now describe the content you're looking for—and let Recall do the rest. Once you’re set up, accessing Recall is as straightforward as navigating to the All apps list on your Start menu. To ensure your data remains secure, you’ll need to enable Windows Hello, BitLocker, and Secure Boot before opting in to save those invaluable snapshots.
 
 Using your PC will remain as intuitive as ever until you find yourself in need of a past interaction. Each time you access Recall, you’ll authenticate your identity using a fingerprint, facial recognition, or a PIN—further ensuring your privacy. Importantly, this feature is entirely optional, a thoughtful response from Microsoft following valid privacy concerns raised by critics.
