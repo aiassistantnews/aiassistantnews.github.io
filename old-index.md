@@ -12,7 +12,7 @@ Welcome to AI News. Here you'll find the most interesting news about AI in a sho
 <!-- Check out my [first blog post](./_posts/2024-09-29-and-so-it-begins.md)! -->
 
 {% for post in site.posts %}
-<p class="post-content">
+<p>
 <!-- <h2>{{ post.title }}</h2> -->
 {{ post.excerpt | strip_html | truncatewords: 50 }}
 <br>
