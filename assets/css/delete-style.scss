@@ -1,4 +1,16 @@
-* {
+---
+---
+
+@import "minima";
+
+h2 {
+    font-size: 1.8em; /* Adjust the size */
+    color: #333; /* Change color */
+    font-weight: bold; /* Customize weight */
+    margin-bottom: 20px; /* Add margin */
+  }
+
+  * {
     box-sizing: border-box;
     margin: 0;
     padding: 0;
@@ -35,7 +47,7 @@ body {
 }
 
 main {
-    padding: 60px 0;  /* increased from 40px */
+    padding: 40px 0;
 }
 
 h2 {
@@ -47,8 +59,7 @@ h2 {
 .posts-grid {
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
-    gap: 30px;  /* increased from 20px */
-    margin-top: 20px;  /* added margin-top */
+    gap: 20px;
 }
 
 .post {
