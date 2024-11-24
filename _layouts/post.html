@@ -1,22 +1,26 @@
----
-layout: blog-post
----
-# POST YES
-<article class="post">
-    <!-- <header class="post-header">
-        <h1 class="post-title">{{ page.title | escape }}</h1>
-        <p class="post-meta">
-            {% if page.date %}
-            <time datetime="{{ page.date | date_to_xmlschema }}">
-                {{ page.date | date: "%B %-d, %Y" }}
-            </time>
-            {% endif %}
-            {% if page.author %} • {{ page.author }}{% endif %}
-        </p>
-    </header> -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tech Pulse BLOG - Your Daily Dose of Tech News</title>
+    <link rel="stylesheet" href="{{ '/assets/css/post-style.css' | relative_url }}">
+</head>
+<body>
+    <header class="banner">
+        <div class="container">
+            <h1 class="animate-fade-in-down">Tech Pulse</h1>
+            <p class="animate-fade-in-up">Your Daily Dose of Tech News and Insights</p>
+        </div>
+    </header>
 
-    <div class="blog-post">
-        {{ content }}
-    </div>
+    <main class="container">
+        <!-- <h2>Recent Posts</h2> -->
+        <div class="blog-post">
+            {{ content }}
+        </div>
+    </main>
 
-</article>
+    <!-- <script src="script.js"></script> -->
+</body>
+</html>
