@@ -116,6 +116,17 @@ nav ul li a:hover {
     color: #1a5fcf;
 }
 
+.post-link {
+    display: block;
+    margin-top: 1rem;
+    color: #2575fc;
+    text-decoration: none;
+}
+
+.post-link:hover {
+    color: #1a5fcf;
+}
+
 .site-footer {
     background-color: #333;
     color: #fff;
