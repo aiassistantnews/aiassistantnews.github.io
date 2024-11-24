@@ -145,7 +145,7 @@ nav ul li a:hover {
 
 @media screen and (max-width: 768px) {
     .container {
-        padding: 15px;
+        padding: 0px;
     }
     
     .blog-post {
