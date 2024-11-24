@@ -3,8 +3,6 @@ layout: default
 title: Daily AI News
 ---
 
-## Blog posts
-
 {% for post in site.posts %}
 <div class="post">
     <div class="post-content">
