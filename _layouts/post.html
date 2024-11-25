@@ -21,6 +21,14 @@
         <div class="blog-post">
             {{ content }}
         </div>
+        
+        {% if page.next %}
+        <div class="post-navigation">
+            <a href="{{ page.next.url }}" class="next-article">
+                Next Article: {{ page.next.title }} →
+            </a>
+        </div>
+        {% endif %}
     </main>
 
     <!-- <script src="script.js"></script> -->
