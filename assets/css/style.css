@@ -19,7 +19,8 @@ body {
 }
 
 .banner {
-    background: linear-gradient(to right, #030942, #2c6cd9);
+    /* background: linear-gradient(to right, #030942, #2c6cd9); */
+    background-color: lightgray;
     color: black;
     text-align: center;
     padding: 30px 0;
