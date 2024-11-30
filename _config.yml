@@ -1,8 +1,9 @@
 # _config.yml
-title: AI News Blog
-description: Your daily dose of AI news
+title: Tiny Tech News
+description: Your daily dose of tech news
 baseurl: "" # No base URL needed for GitHub Pages repo with <username>.github.io
-url: "https://aiassistantnews.github.io"
+# url: "https://aiassistantnews.github.io"
+url: "https://tinytech.news"
 theme: minima # Using the minima theme as it's simple and included by default
 # Link to the custom stylesheet
 sass:
