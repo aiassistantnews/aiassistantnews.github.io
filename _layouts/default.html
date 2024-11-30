@@ -10,7 +10,7 @@
     <header class="banner">
         <div class="container header-content">
             <div class="logo-wrapper">
-                <img src="{{ '/assets/images/logo200.png' | relative_url }}" alt="Tech Pulse Logo" class="site-logo">
+                <img src="{{ '/assets/images/logo200.png' | relative_url }}" alt="Tiny Tech New Logo" class="site-logo">
             </div>
             <!-- <div class="header-text">
                 <h1 class="animate-fade-in-down">Tech Pulse BLOG</h1>
@@ -20,8 +20,14 @@
     </header>
 
     <main class="container">
-        <div class="posts-grid" id="recentPosts">
-            {{ content }}
+        <div class="main-grid">
+            <div class="posts-grid" id="recentPosts">
+                {{ content }}
+            </div>
+            <div class="sidebar">
+                <!-- Sidebar content will go here -->
+                 -- Ad Space --
+            </div>
         </div>
     </main>
 </body>

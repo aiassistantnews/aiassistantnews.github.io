@@ -146,6 +146,16 @@ h2 {
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.05);
 }
 
+.main-grid {
+    display: grid;
+    grid-template-columns: 1fr 300px;
+    gap: 2rem;
+}
+
+.sidebar {
+    min-height: 100px;
+}
+
 @keyframes fadeInDown {
     from {
         opacity: 0;
