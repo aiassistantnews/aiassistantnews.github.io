@@ -74,6 +74,11 @@ h2 {
     border-bottom: #888 1px solid;
 }
 
+.post-list-title {
+    font-size: 16px;
+    font-weight: 900;
+    line-height: 24px;
+}
 .post:hover {
     transform: translateY(-5px);
 }
