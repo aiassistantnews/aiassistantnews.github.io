@@ -83,11 +83,13 @@ h2 {
 }
 
 .post-list-snippet {
-    color: #484848;
+    color: #5e5e5e;
+    font-size: 14px;
 }
 
 .post-list-date {
     color: #888;
+    font-size: 14px;
 }
 
 .post:hover {
