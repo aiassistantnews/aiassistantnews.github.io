@@ -2,12 +2,14 @@
 layout: default
 title: Tiny Tech News
 ---
-{% for post in site.posts %}
 <img src="https://picsum.photos/260/130" alt="">
-<div class="post" >
+{% for post in site.posts %}
+<div class="post" style="display: flex; gap: 1rem; align-items: flex-start;">
     <!-- {% if post.image %} -->
     <!-- <img src="{{ post.image | relative_url }}" alt="{{ post.title }}" style="height: 60px; width: auto; object-fit: cover;"> -->
-    <img src="https://picsum.photos/260/130" alt="{{ post.title }}" style="height: 130px; width: auto; object-fit: cover;">
+     <div>
+         <img src="https://picsum.photos/260/130" alt="{{ post.title }}" style="height: 130px; width: auto; object-fit: cover;">
+     </div>
     <!-- {% endif %} -->
     <div class="post-content">
         <a href="{{ post.url | relative_url }}" class="post-list-title">{{ post.title }}</a>
