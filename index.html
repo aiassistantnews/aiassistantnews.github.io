@@ -7,16 +7,16 @@ title: Tiny Tech News
     <!-- {% if post.image %} -->
     <!-- <img src="{{ post.image | relative_url }}" alt="{{ post.title }}" style="height: 60px; width: auto; object-fit: cover;"> -->
     <!-- {% endif %} -->
-    <div>
-        <img src="https://picsum.photos/260/130?random" alt="{{ post.title }}"
-            style="height: 130px; width: auto; object-fit: cover;">
-    </div>
     <div class="post-content">
         <a href="{{ post.url | relative_url }}" class="post-list-title">{{ post.title }}</a>
         <div class="post-list-snippet">{{ post.excerpt | strip_html | truncatewords: 50 }}</div>
         <div class="post-list-date">
             <small>{{ post.date | date: "%B %d, %Y" }}</small>
         </div>
+    </div>
+    <div>
+        <img src="https://picsum.photos/260/130?random={{ "now" | date: "%N" }}" alt="{{ post.title }}"
+            style="height: 130px; width: auto; object-fit: cover;">
     </div>
 </div>
 {% endfor %}
