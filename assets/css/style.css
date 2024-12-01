@@ -82,12 +82,20 @@ h2 {
     color: inherit;
 }
 
+.post-list-snippet {
+    color: #323232;
+}
+
+.post-list-date {
+    color: #888;
+}
+
 .post:hover {
     transform: translateY(-5px);
 }
 
 .post-content {
-    padding: 30px;
+    /* padding: 30px; */
 }
 
 .post h3 {
