@@ -116,7 +116,7 @@ h2 {
 }
 
 .back-nav {
-    margin: 40px 0;
+    /* margin: 40px 0; */
 }
 
 .back-button {
@@ -139,7 +139,7 @@ h2 {
 }
 
 .blog-post {
-    max-width: 768px;
+    /* max-width: 768px; */
     margin: 0 auto;
     background: white;
     padding: 40px;
