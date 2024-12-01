@@ -163,10 +163,10 @@ h2 {
 .blog-post {
     /* max-width: 768px; */
     margin: 0 auto;
-    background: white;
+    /* background: white;
     padding: 40px;
     border-radius: 12px;
-    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.05);
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.05); */
 }
 
 .main-grid {
