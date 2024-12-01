@@ -82,6 +82,10 @@ h2 {
     color: inherit;
 }
 
+.post-list-title:hover {
+    text-decoration: underline;
+}
+
 .post-list-snippet {
     color: #888;
     font-size: 14px;
