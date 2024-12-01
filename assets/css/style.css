@@ -92,9 +92,9 @@ h2 {
     font-size: 14px;
 }
 
-.post:hover {
+/* .post:hover {
     transform: translateY(-5px);
-}
+} */
 
 .post-content {
     /* padding: 30px; */
