@@ -5,11 +5,12 @@ title: Tiny Tech News
 {% for post in site.posts %}
 <div class="post">
     <div class="post-content">
-        <div class="post-list-title">{{ post.title }}</div>
+        <!-- <div class="post-list-title">{{ post.title }}</div> -->
+        <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
         <p>{{ post.excerpt | strip_html | truncatewords: 50 }}</p>
-        <div class="post-meta">
+        <div>
             <small>{{ post.date | date: "%B %d, %Y" }}</small>
-            <a href="{{ post.url | relative_url }}">Read more</a>
+            <!-- <a href="{{ post.url | relative_url }}">Read more</a> -->
         </div>
         <!-- <a href="{{ post.url | relative_url }}" class="post-link">Read more</a> -->
     </div>
