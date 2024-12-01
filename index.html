@@ -6,7 +6,7 @@ title: Tiny Tech News
 <div class="post">
     <div class="post-content">
         <!-- <div class="post-list-title">{{ post.title }}</div> -->
-        <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+        <a href="{{ post.url | relative_url }}" class="post-list-title">{{ post.title }}</a>
         <p>{{ post.excerpt | strip_html | truncatewords: 50 }}</p>
         <div>
             <small>{{ post.date | date: "%B %d, %Y" }}</small>
