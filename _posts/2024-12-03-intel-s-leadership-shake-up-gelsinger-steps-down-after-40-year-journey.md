@@ -5,7 +5,7 @@ date: 2024-12-03 09:00:00 +0000
 categories: [Technology, Business]
 tags: [intel, pat-gelsinger, leadership, semiconductors, tech-industry]
 author: Rene Pedersen
-image: /intel-s-leadership-shake-up-gelsinger-steps-down-after-40-year-journey.webp
+image: /assets/images/intel-s-leadership-shake-up-gelsinger-steps-down-after-40-year-journey.webp
 ---
 # Intel's Leadership Shake-Up: Gelsinger Steps Down After 40-Year Journey
 
