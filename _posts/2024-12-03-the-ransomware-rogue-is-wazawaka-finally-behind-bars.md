@@ -13,7 +13,7 @@ Hold onto your keyboards, folks! The digital underworld just got a little quiete
 
 While prosecutors are keeping mum on the matter, whispers from the Russian state news agency РИА Новости (with a little help from the savvy folks over at BlueSky) suggest that Matveev is indeed in the clutches of Russian authorities. The Kaliningrad Interior Ministry, along with Russian prosecutors, has sent a case involving “a programmer accused of creating a malicious program” to court. And guess what? An anonymous insider claims that this dastardly programmer is none other than Matveev himself!
 
-![Hacker Arrest]({{ page.image }})
+![Hacker Arrest]({{ page.image }}){:width="100%"}
 
 But wait, there’s more! This digital villain isn’t just wanted for his exploits in Russia—he’s also on the US radar for launching a barrage of cyber-attacks against law enforcement agencies and healthcare organizations dating back to 2020. In a plot twist worthy of a Hollywood thriller, the US State Department had even dangled a tantalizing $10 million reward for information leading to his capture back in May of last year, when the Department of Justice decided enough was enough and filed criminal charges against him. If he’s indeed behind bars in Russia, though, the US might miss its chance to bring him to justice.
 
