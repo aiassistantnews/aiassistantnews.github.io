@@ -11,7 +11,7 @@ image: /assets/images/intel-s-leadership-shake-up-gelsinger-steps-down-after-40-
 
 After an epic 40-year saga with Intel, Pat Gelsinger is hanging up his cape and stepping into retirement, effective December 1. His departure marks the end of a nearly four-year tenure steering the ship at this chip manufacturing giant. With Gelsinger’s exit, both his CEO title and his seat on the board of directors have been vacated, prompting the board to roll up their sleeves and form a search committee to find a new captain for this tech vessel—one that promises to be both “diligent and expeditious” in their quest.
 
-![Hacker Arrest]({{ page.image }}){:width="100%"}
+![Gelsinger steps down]({{ page.image }}){:width="100%"}
 
 In the interim, the dynamic duo of Michelle Johnston Holthaus, Intel Products' incoming CEO, and David Zinsner, the company's executive vice president and CFO, will take the reins as Co-CEOs. Talk about a power couple!
 
