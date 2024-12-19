@@ -2,7 +2,7 @@
 layout: post
 title: Seagate Unveils Its Groundbreaking HAMR-Based Hard Drive: A New Era in Storage
 description: Seagate is set to revolutionize data storage with its first HAMR (Heat-Assisted Magnetic Recording) hard drive, promising unprecedented storage capacities and performance.
-date: 2024-12-19T12:58:49.918-05:00
+date: 2024-12-19
 author: Peter Schmidt
 categories: [No-category]
 tags: [untagged]
