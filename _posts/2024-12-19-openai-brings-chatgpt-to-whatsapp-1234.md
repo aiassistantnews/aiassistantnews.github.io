@@ -10,7 +10,7 @@ image: /assets/images/2024-12-19-openai-brings-chatgpt-to-whatsapp-1234.webp
 ---
 OpenAI Revolutionizes WhatsApp with ChatGPT Integration
 Discover how OpenAI's ChatGPT is transforming the way we interact on WhatsApp with its latest integration.
-![Discover how OpenAI's ChatGPT is transforming the way we interact on WhatsApp with its latest integration.]([[ page.image | prepend: site.baseurl ]]){:width="100%"}
+![Discover how OpenAI's ChatGPT is transforming the way we interact on WhatsApp with its latest integration.]([[ page.image ]]){:width="100%"}
 
 
 ## OpenAI Revolutionizes WhatsApp with ChatGPT Integration
