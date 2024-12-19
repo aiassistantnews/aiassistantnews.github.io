@@ -4,7 +4,7 @@ title: NVIDIA Unveils Its Most Affordable Yet Powerful Compact Generative AI Sup
 description: NVIDIA's latest innovation brings high-performance AI capabilities at an unprecedented price point, making advanced generative AI more accessible than ever.
 date: 2024-12-19T14:08:22.230-05:00
 author: Peter Schmidt
-image: /assets/images/2024-12-19-nvidia-compact-generative-ai-supercomputer-cheapest-8421.webp
+image: /assets/images/2024-12-19-nvidia-compact-generative-ai-supercomputer-cheapest-8421.jpg
 ---
 NVIDIA Unveils Its Most Affordable Yet Powerful Compact Generative AI Supercomputer
 NVIDIA's latest innovation brings high-performance AI capabilities at an unprecedented price point, making advanced generative AI more accessible than ever.
