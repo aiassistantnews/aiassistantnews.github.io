@@ -2,7 +2,7 @@
 layout: default
 title: Tiny Tech News
 ---
-{% for post in site.posts %}
+{% for post in paginator.posts %}
 <div class="post" style="display: flex; gap: 1rem; align-items: flex-start;">
     <!-- {% if post.image %} -->
     <!-- <img src="{{ post.image | relative_url }}" alt="{{ post.title }}" style="height: 60px; width: auto; object-fit: cover;"> -->
@@ -20,3 +20,28 @@ title: Tiny Tech News
     </div>
 </div>
 {% endfor %}
+
+<!-- Pagination controls -->
+{% if paginator.total_pages > 1 %}
+<div class="pagination" style="display: flex; justify-content: center; gap: 1rem; margin-top: 2rem;">
+    {% if paginator.previous_page %}
+        <a href="{{ paginator.previous_page_path | relative_url }}">&laquo; Previous</a>
+    {% endif %}
+
+    {% for page in (1..paginator.total_pages) %}
+        {% if page == paginator.page %}
+            <span class="current-page">{{ page }}</span>
+        {% else %}
+            {% if page == 1 %}
+                <a href="{{ '/' | relative_url }}">{{ page }}</a>
+            {% else %}
+                <a href="{{ site.paginate_path | relative_url | replace: ':num', page }}">{{ page }}</a>
+            {% endif %}
+        {% endif %}
+    {% endfor %}
+
+    {% if paginator.next_page %}
+        <a href="{{ paginator.next_page_path | relative_url }}">Next &raquo;</a>
+    {% endif %}
+</div>
+{% endif %}
