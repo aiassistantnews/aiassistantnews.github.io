@@ -4,7 +4,7 @@ title: Unveiling the Future - An Exclusive Interview with NVIDIA's Jensen Huang
 description: Dive into an in-depth conversation with NVIDIA's CEO Jensen Huang as he discusses the latest advancements in AI, the future of gaming, and the company's innovative strategies.
 date: 2024-12-19T13:44:48.001-05:00
 author: Peter Schmidt
-image: /assets/images/2024-12-19-nvidia-jensen-huang-interview-2024-8421.webp
+image: /assets/images/2024-12-19-nvidia-jensen-huang-interview-2024-8421.jpg
 ---
 Unveiling the Future - An Exclusive Interview with NVIDIA's Jensen Huang
 Dive into an in-depth conversation with NVIDIA's CEO Jensen Huang as he discusses the latest advancements in AI, the future of gaming, and the company's innovative strategies.
