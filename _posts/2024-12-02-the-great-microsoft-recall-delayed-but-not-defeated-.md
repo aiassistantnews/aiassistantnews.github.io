@@ -1,6 +1,17 @@
+---
+layout: post
+title: "Microsoft Recall recalled...!"
+date: 2024-12-02 09:00:00 +0000
+categories: [Technology, Business]
+tags: [untagged]
+author: Peter Schmidt
+image: /assets/images/microsoft-recall-recalled.webp
+---
 # The Great Microsoft Recall: Delayed But Not Defeated!
 
 Hold onto your keyboards, folks! Microsoft has just thrown a curveball regarding the highly anticipated Recall AI feature for the upcoming Windows 11 Copilot+ PCs. Initially set to launch on June 18, this shiny new tool will be taking a little detour before it hits your screens. 
+
+![Microsoft Recall recalled]({{ page.image }}){:width="100%"}
 
 In a recent update on the Windows Blog, Microsoft spilled the beans: Recall is shifting from being a “preview experience broadly available for Copilot+ PCs” to a more exclusive sneak peek solely for the Windows Insider Program. Yep, that’s right! Only the lucky testers in the Insider Community will get to play with this feature for now. The rest of us will have to patiently wait until Microsoft gathers valuable feedback from its enthusiastic testers before the grand rollout to all Copilot+ PCs. 
 
