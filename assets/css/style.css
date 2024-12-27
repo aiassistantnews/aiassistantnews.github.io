@@ -174,9 +174,9 @@ h2 {
 }
 
 .main-grid {
-    display: grid;
+    /* display: grid;
     grid-template-columns: 1fr 300px;
-    gap: 2rem;
+    gap: 2rem; */
     padding-bottom: 30px;
 }
 
