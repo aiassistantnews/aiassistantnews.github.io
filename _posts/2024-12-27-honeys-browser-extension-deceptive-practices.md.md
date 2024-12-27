@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Honey's Browser Extension Accused of Deceptive Practices: Customers and Influencers Speak Out
+title: "Honey's Browser Extension Accused of Deceptive Practices: Customers and Influencers Speak Out"
 description: Honey, the deal-hunting browser extension, faces scrutiny after allegations of misleading customers and influencers with deceptive discount practices and manipulative affiliate commission structures.
 date: 2024-12-27T03:48:20.681-05:00
 author: Peter Schmidt
