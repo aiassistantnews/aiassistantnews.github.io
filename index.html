@@ -3,10 +3,7 @@ layout: default
 title: Tiny Tech News
 ---
 {% for post in paginator.posts %}
-<div class="post" style="display: flex; gap: 1rem; align-items: flex-start;">
-    <!-- {% if post.image %} -->
-    <!-- <img src="{{ post.image | relative_url }}" alt="{{ post.title }}" style="height: 60px; width: auto; object-fit: cover;"> -->
-    <!-- {% endif %} -->
+<div class="post post-container">
     <div class="post-content">
         <a href="{{ post.url | relative_url }}" class="post-list-title">{{ post.title }}</a>
         <div class="post-list-snippet">{{ post.excerpt | strip_html | truncatewords: 50 }}</div>
@@ -14,7 +11,7 @@ title: Tiny Tech News
             <small>{{ post.date | date: "%B %d, %Y" }}</small>
         </div>
     </div>
-    <div style="margin-left: auto;">
+    <div class="post-image">
         <img src="{{ post.image | relative_url }}" alt="{{ post.title }}"
             style="height: 130px; width: auto; object-fit: cover;">
     </div>
