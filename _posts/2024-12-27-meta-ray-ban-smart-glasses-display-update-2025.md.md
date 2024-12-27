@@ -8,10 +8,8 @@ image: /assets/images/2024-12-27-meta-ray-ban-smart-glasses-display-update-2025.
 ---
 # Meta's Ray-Ban Smart Glasses Set for Display Upgrade by 2025
 Meta plans to enhance its Ray-Ban smart glasses with a display feature in a future update expected in late 2025, advancing its vision of lightweight and user-friendly smart devices.
-![Meta plans to enhance its Ray-Ban smart glasses with a display feature in a future update expected in late 2025, advancing its vision of lightweight and user-friendly smart devices.]( {{page.image}} ){:width="100%"}
-# Meta's Ray-Ban Smart Glasses Set for Display Upgrade by 2025
 
-Meta plans to enhance its Ray-Ban smart glasses with a display feature in a future update expected in late 2025, advancing its vision of lightweight and user-friendly smart devices.
+![Meta plans to enhance its Ray-Ban smart glasses with a display feature in a future update expected in late 2025, advancing its vision of lightweight and user-friendly smart devices.]( {{page.image}} ){:width="100%"}
 
 Meta is gearing up to enhance its Ray-Ban smart glasses by introducing a display in a future release, as reported by Financial Times and 9to5Google. This anticipated update is set to debut in the second half of 2025, marking a significant evolution for the popular smart eyewear.
 
