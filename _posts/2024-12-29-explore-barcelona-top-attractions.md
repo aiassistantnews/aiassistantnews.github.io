@@ -24,3 +24,4 @@ Art enthusiasts should not miss the **Picasso Museum**, which showcases over 4,2
 As you plan your trip, make sure to consult **Barcelona's Official Website** for reliable information on attractions, cultural events, and local services. Whether you're interested in a detailed itinerary or the best places to eat, this resource serves as an invaluable guide to navigating the city's wonders. 
 
 From the architectural marvels to its rich history, Barcelona promises an unforgettable experience that intertwines culture, creativity, and beauty.
+Check out the directory they're building at [https://hey.barcelona/](https://hey.barcelona/)
