@@ -196,6 +196,15 @@ h2 {
     margin-left: auto;
 }
 
+/* style="height: 130px; width: auto; object-fit: cover;" */
+.post-image img {
+    width: 300px;
+    height: auto;
+    /* max-width: 100%; */
+    object-fit: cover;
+    border-radius: 8px;
+}
+
 @keyframes fadeInDown {
     from {
         opacity: 0;
