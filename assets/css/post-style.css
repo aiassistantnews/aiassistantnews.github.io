@@ -3,7 +3,7 @@
 /* Additional styles for the post page */
 
 p {
-    margin-bottom: 1.2rem;
+    margin-bottom: 1rem;
 }
 
 h1 {
@@ -15,7 +15,7 @@ h2 {
     font-size: 1.2rem;
     font-weight: bold;
     margin-bottom: 1rem;
-    line-height: 110%;
+    line-height: 125%;
 }
 
 .site-header {
