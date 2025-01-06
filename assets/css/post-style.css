@@ -2,6 +2,10 @@
 
 /* Additional styles for the post page */
 
+p {
+    margin-bottom: 1.5rem;
+}
+
 .site-header {
     background-color: #fff;
     box-shadow: 0 2px 4px rgba(0,0,0,0.1);
