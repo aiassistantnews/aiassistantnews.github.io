@@ -82,6 +82,9 @@ nav ul li a:hover {
     display: flex;
     gap: 1rem;
 }
+img {
+    border-radius: 8px;
+}
 
 .post-image {
     width: 100%;
