@@ -6,7 +6,7 @@ date: "2025-01-08T12:08:41.596-05:00"
 author: Peter Schmidt
 image: /assets/images/2025-01-08-nvidia-geforce-rtx-5070-performance-gaming-ai.webp
 ---
-![The NVIDIA GeForce RTX 5070, leveraging the latest Blackwell 2.0 architecture, promises high-performance gaming and groundbreaking AI capabilities. With advanced features like DLSS 4, this card is positioned to deliver exceptional 4K gaming experiences.]( {{page.image}} ){:width="100%"}
+![The NVIDIA GeForce RTX 5070, leveraging the latest Blackwell 2.0 architecture, promises high-performance gaming and groundbreaking AI capabilities. With advanced features like DLSS 4, this card is positioned to deliver exceptional 4K gaming experiences.]( https://nvidianews.nvidia.com/file?fid=677c72aa3d6332120825f251 ){:width="100%"}
 **The NVIDIA GeForce RTX 5070, leveraging the latest Blackwell 2.0 architecture, promises high-performance gaming and groundbreaking AI capabilities. With advanced features like DLSS 4, this card is positioned to deliver exceptional 4K gaming experiences.**
 ### Introduction
 
