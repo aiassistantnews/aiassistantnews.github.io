@@ -11,9 +11,11 @@ title: Tiny Tech News
             <small>{{ post.date | date: "%B %d, %Y" }}</small>
         </div>
     </div>
+    {% if post.image != "/None" %}
     <div class="post-image">
         <img src="{{ post.image | relative_url }}" alt="{{ post.title }}">
     </div>
+    {% endif %}
 </div>
 {% endfor %}
 
