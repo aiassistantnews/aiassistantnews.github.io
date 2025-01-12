@@ -96,9 +96,6 @@ The Mac Mini M4 is versatile enough to cater to a wide array of users:
 
 In summary, the Mac Mini M4 base model is a remarkable device that perfectly balances power, versatility, and design. Whether you are a tech enthusiast, a student, or a professional, this desktop provides an impressive array of features and performance. 
 
-### Call to Action
-If you're considering a new computing solution, the Mac Mini M4 should be at the top of your list. Visit Apple’s [official product page](https://www.apple.com/mac-mini/) to explore more about this incredible device.
-
 ## 8. Additional Resources
 
 For those interested in maximizing their experience with the Mac Mini M4, here are some helpful resources:
