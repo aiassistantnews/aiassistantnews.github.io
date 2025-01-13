@@ -1,0 +1,26 @@
+{
+    "model": "llama-3.1-sonar-small-128k-online",
+    "messages": [
+      {
+        "role": "system",
+        "content": "Be precise and concise."
+      },
+      {
+        "role": "user",
+        "content": "Research the topic ‘{{ $json.chatInput }}’ using credible sources. Provide a concise summary of the main points, including key statistics, examples, and relevant insights. Structure the response into sections like Introduction, Key Findings, and Recommendations."
+      }
+    ],
+    "max_tokens": 4096,
+    "temperature": 0.2,
+    "top_p": 0.9,
+    "search_domain_filter": [
+      "perplexity.ai"
+    ],
+    "return_images": false,
+    "return_related_questions": false,
+    "search_recency_filter": "month",
+    "top_k": 0,
+    "stream": false,
+    "presence_penalty": 0,
+    "frequency_penalty": 1
+  }
