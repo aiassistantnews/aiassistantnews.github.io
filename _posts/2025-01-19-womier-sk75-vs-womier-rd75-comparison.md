@@ -37,6 +37,36 @@ Womier has established itself as a go-to brand within the keyboard community, kn
 - **Customization Capabilities**: Users can enjoy extensive customization options with software support for key remapping, adjustable RGB lighting, and programmable macros.
 - **Connectivity Options**: This keyboard provides both wired and wireless connections via Bluetooth, making it versatile for various setups.
 
+### Specs
+
+- Model: Womier SK75
+- Total Keys: 81 keys
+- Color Options: Black/Blue/White/Beige/Green/Dark Purple (Barebone)
+- Keycap: Cherry profile double-shot PBT keycaps
+- Case Material: Aluminum
+- External Weight: White Mirror/Chroma Mirror
+- Connection Types: Wired/2.4GHz Wireless/Bluetooth
+- Switches: Womier POM Mint Blizzard/Taro switches
+- Backlight LEDs: South-facing
+- PCB: 1.2mm, FR4 material, VIA support, full RGB, hotswap, with flex cuts, 3/5 pin switches compatible
+- Mounting Style: Gasket mounted
+- Battery Capacity: 4000 mAh
+- Interface: USB Type-C
+- Operating System: Windows/macOS/Linux
+- Download VIA Configuration JSON Files: Link
+- Keyboard Weight: 1860g
+- Dimensions: 321*140*38mm
+
+In the box:
+
+- 1x SK75 keyboard
+- 1x USB-A to USB Type-C cable
+- 1x 2-in-1 keycap & switch puller
+- 1x 2.4GHz wireless adapter
+- Extra keycaps
+- Extra 3pcs of stock switches
+- User manual
+
 ### Performance Analysis:
 
 The Womier SK75 offers an unparalleled typing experience, thanks to its well-balanced switches that boast a medium actuation force of 45g, a lifespan of 50 million key presses, and minimal noise, making it suitable for both gaming and office environments. User feedback has been overwhelmingly positive; many reviewers praise its comfortable typing experience, though some have mentioned occasional connectivity issues with the wireless function.
@@ -49,6 +79,43 @@ The Womier SK75 offers an unparalleled typing experience, thanks to its well-bal
 - **Customization Capabilities**: Offering robust software, the RD75 allows users extensive customization, from RGB settings to key remapping.
 - **Connectivity Options**: The RD75 also supports wired and wireless connections, enhancing flexibility.
 
+### Specs:
+
+- Model: Womier RD75 Pro
+- Total Keys: 81 keys
+- Color Options: Anodized Black/Anodized Blue/Anodized Sliver/Powder-coated Beige
+- Keycap: Cherry profile double-shot PBT keycaps
+- Case Material: Aluminum
+- Badge Material: Aluminum
+- External Weight Material: Brushed stainless steel
+- Connection Types: Wired/2.4GHz Wireless/Bluetooth
+- Stock Switch: Womier Full POM Beige Switch (Silver&Beige) /
+- Womier Full POM Grey Switch (Black&Blue)
+- Backlight LEDs: South-facing
+- PCB: 1.2mm, FR4 material, QMK/VIA support, full RGB, hotswap, with flex cuts, 3/5 pin switches compatible
+- Mounting Style: Gasket mounted
+- Battery Capacity: 8000 mAh
+- Interface: USB Type-C
+- Operating System: Windows/macOS/Linux
+- Polling Rate: 1000Hz (Wired/2.4Ghz Wireless); 125Hz (Bluetooth)
+- Download VIA Configuration JSON Files: Link
+- Keyboard Weight: 2000g
+- Dimensions: 320*136*45mm (Keyboard) / 382*210*84mm (Packaged)
+
+### In the box:
+
+- 1x Womier RD75 Pro Keyboard
+- 1x USB-A to USB Type-C Cable
+- 1x 2-in-1 Keycap & Switch Puller
+- 1x Silver Aluminum Badge
+- 1x 2.4GHz Wireless Adapter
+- 1x 1u Receiver Storage Keycap
+- 3 Extra Complementary Keycaps
+- 3 Extra Mac Keycaps
+- 3 Extra Stock Switches
+- Additional Silicone Gaskets
+- User Manual
+
 ### Performance Analysis:
 
 The RD75 excels in both gaming and typing, with switches that have a slightly higher actuation force (50g), which some users prefer for a deliberate feel. The keyboard also features a lifespan of 60 million key presses. User feedback reflects that while the RD75 may not be as lightweight as its counterpart, it offers a solid typing experience with excellent key responsiveness, although some users note that the RGB lighting can sometimes be distracting.
@@ -57,9 +124,9 @@ The RD75 excels in both gaming and typing, with switches that have a slightly hi
 
 ### SK75 vs RD75
 
-When comparing the design of the Womier SK75 and RD75, several key differences emerge. The SK75 often features a more vibrant color scheme with a unique translucent case that enhances its RGB lighting, while the RD75 leans towards a more professional look with discreet lighting effects.
+When comparing the design of the Womier SK75 and RD75, several key differences emerge. The main difference is that the RD75 is easier to mod becaue it can be taken apart without using any tools. The cover and PCB is attached with magnets. The SK75 is using skrues so it takes longer to take apart. They also have different color schemes.
 
-In terms of build quality, both keyboards have a sturdy feel with high-quality materials, though the SK75’s design is slightly more eye-catching due to its premium finish. Personalization features on both keyboards are robust, allowing for keycap swapping and extensive customization of the external aesthetics.
+In terms of build quality, both keyboards have a sturdy feel with high-quality materials. Personalization features on both keyboards are robust, allowing for keycap swapping and extensive customization of the external aesthetics.
 
 ## Section 6: Price and Value: Is It Worth Your Investment?
 
@@ -89,11 +156,6 @@ We encourage readers to leave comments on their experiences with each keyboard, 
 
 In summary, both the Womier SK75 and RD75 offer exceptional features tailored for different user preferences. We recommend weighing your personal needs against the highlighted features before making a decision. 
 
-### Call to Action
-
-If you found this article helpful, please share it with friends and check our website for more in-depth guides and reviews on gaming keyboards.
-
 ## Additional Resources
 
-- **Links to Purchase**: [Womier SK75](#) | [Womier RD75](#)
-- **Additional Reading**: Explore articles on [keyboard switches](#), [keyboard modding](#), and the latest trends in [gaming peripherals](#).
+- **Links to Purchase**: [Womier SK75](https://womierkeyboard.com/products/womier-sk75?www.tinytech.news) | [Womier RD75](https://womierkeyboard.com/products/womier-rd75-pro?www.tinytech.news)
